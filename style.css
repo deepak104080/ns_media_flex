@@ -1,0 +1,47 @@
+/* .cards {
+    width: 22%;
+    margin: 10px;
+    background-color: salmon;
+    height: 200px;
+    display: inline-block;
+}
+
+
+@media only screen and (max-width:600px) {
+    .cards {
+        width: 100%;
+    }
+} */
+
+
+
+.header {
+    background-color: cornflowerblue;
+}
+.footer {
+    background-color: darkgoldenrod;
+}
+
+
+.main {
+
+}
+.main_left {
+    width: 20%;
+    background-color: darkorchid;
+    float: left;
+    height: 400px;
+}
+.main_center {
+    width: 60%;
+    background-color: deeppink;
+    float: left;
+    height: 400px;
+}
+
+.main_right {
+    width: 20%;
+    background-color: deepskyblue;
+    float: left;
+    height: 400px;
+}
